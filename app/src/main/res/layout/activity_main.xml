@@ -7,9 +7,9 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_width="89dp"
-        android:layout_height="49dp"
-        android:text="Hello World!"
+        android:layout_width="151dp"
+        android:layout_height="62dp"
+        android:text="00097017 Alejandro Olmedo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.454"
         app:layout_constraintLeft_toLeftOf="parent"
